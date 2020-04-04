@@ -59,7 +59,7 @@
     "csv-parse": "2.0.0",
     "fs-extra": "4.0.2",
     "http-server": "0.10.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.3",
     "nodemailer": "4.4.0",
     "opn": "5.1.0",
     "readline-sync": "1.4.5",
